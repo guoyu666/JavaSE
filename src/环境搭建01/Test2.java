@@ -1,4 +1,4 @@
-package 环境搭建001;
+package 环境搭建01;
 
 /*
 D:\course\JavaProjects\02-JavaSE\chapter01>java Test2

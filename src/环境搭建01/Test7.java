@@ -1,4 +1,4 @@
-package 环境搭建001;
+package 环境搭建01;
 
 public class Test7{
 

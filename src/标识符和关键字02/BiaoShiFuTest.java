@@ -1,4 +1,4 @@
-package 标识符和关键字002;
+package 标识符和关键字02;
 
 /*
 	1、在java程序当中，使用EditPlus工具进行代码编写的时候，

@@ -1,4 +1,5 @@
-package 环境搭建01;/*
+package 环境搭建01;
+/*
 	1、什么是注释，有什么用？
 		注释是对java源代码的解释说明。
 		注释可以帮程序员更好的理解程序。
@@ -17,13 +18,13 @@ package 环境搭建01;/*
 /**
  * 类的注释信息
  * @version 1.0
- * @author bjpowernode-dujubin
+ * @author GuoYu
  * ....
  */
 public class HelloWorld { // 这是一个类，类名叫做HelloWorld
     public static void main(String[] args){
         System.out.println("Hello World");
-        System.out.println("动力节点-口口相传的Java黄埔军校");
+        System.out.println("GuoYu");
     }
 }
 

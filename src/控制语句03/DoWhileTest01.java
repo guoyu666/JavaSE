@@ -1,4 +1,4 @@
-package 控制语句;
+package 控制语句03;
 
 /*
 	do..while循环语句的执行原理以及语法机制：

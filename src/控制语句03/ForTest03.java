@@ -1,4 +1,4 @@
-package 控制语句;
+package 控制语句03;
 
 public class ForTest03{
     public static void main(String[] args){

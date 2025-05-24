@@ -1,4 +1,4 @@
-package 控制语句;
+package 控制语句03;
 
 //从控制台输入一个正整数，计算该数的阶乘。例如输入5，阶乘为 5*4*3*2*1
 public class Homework03 {
